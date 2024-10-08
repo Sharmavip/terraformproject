@@ -17,3 +17,4 @@ variable "instance_name" {
   description = "Instance Variable in Terraform"
   type        = string
   default     = "Myterraform variable intance"
+  }
